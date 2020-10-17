@@ -1,2 +1,2 @@
 # ESP32_MQTT
-ESP32 Example connecting to thethings.io using HTTP protocol
+ESP32 Example connecting to thethings.io using MQTT protocol
